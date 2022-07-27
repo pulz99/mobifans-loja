@@ -56,6 +56,10 @@
       "full_width": false
     },
     {
+      "type": "custom-html",
+      "html": "<div><br></div><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/83xyE4zJggw?controls=0&amp;autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 1,
       "start": "2022-06-24T11:30:30.449Z",
