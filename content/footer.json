@@ -80,7 +80,7 @@
   },
   "stamps": [
     {
-      "src": "https://i.imgur.com/RxVM87b.png",
+      "src": "/img/uploads/google-selo.webp",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=mobifans.com.br"
     },
     {
@@ -89,7 +89,7 @@
       "alt": " "
     },
     {
-      "src": "/img/uploads/google-selo.webp",
+      "src": "https://i.imgur.com/RxVM87b.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=mobifans.com.br"
     }
   ],
