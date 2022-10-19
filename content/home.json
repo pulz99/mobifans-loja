@@ -166,15 +166,8 @@
       "markdown": "###    Siga-nos no Instagram! [@mobifans](https://www.instagram.com/mobifans/)"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/anyconv.com__banner-instagram-mobi-01.webp",
-          "mobile_img": "/img/uploads/anyconv.com__banner-instagram-mobi-02.webp",
-          "alt": "Instagram Mobifans",
-          "link": "https://instagram.com/mobifans/"
-        }
-      ]
+      "type": "custom-html",
+      "html": "    <script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n    <div class=\"elfsight-app-05a4d021-2644-4518-bb65-d2c1084710dc\"></div>"
     },
     {
       "type": "custom-html",
