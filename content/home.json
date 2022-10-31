@@ -57,6 +57,18 @@
       "full_width": false
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/5s9suprcwz3.png"
+        }
+      ]
+    },
+    {
       "type": "custom-html",
       "html": "    <script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n    <div class=\"elfsight-app-8c7398ab-561f-4f38-a2de-29a5653c5007\"></div>"
     },
