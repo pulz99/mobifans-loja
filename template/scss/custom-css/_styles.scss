@@ -136,3 +136,8 @@ display: none
     padding:10px;
   }
 }
+@media (min-width: 767px) {
+  .header__nav--full div .header__submenu {
+    margin-left: 0 !important;
+  }
+}
