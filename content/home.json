@@ -166,19 +166,6 @@
       "title": "PopSockets®, o Original chegou!"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/captura-de-tela-2022-11-17-102611.png",
-          "link": "https://www.instagram.com/mobifans/"
-        }
-      ]
-    },
-    {
       "type": "custom-content",
       "markdown": "<div class=\"collectionID\"><h2 class=\"my-0\"><div style=\"text-align:center\"><!--StartFragment-->Siga a [@mobifans](https://www.instagram.com/mobifans/) no Instagram<!--EndFragment--></h2></div>"
     },
