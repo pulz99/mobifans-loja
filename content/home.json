@@ -167,7 +167,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<div class=\"collectionID\"><h2 class=\"my-0\"><div style=\"text-align:center\"><!--StartFragment-->Siga a [@mobifans](https://www.instagram.com/mobifans/) no Instagram<!--EndFragment--></h2></div>"
+      "markdown": "<!--StartFragment-->\n\nSiga a [@mobifans](https://www.instagram.com/mobifans/) no Instagram\n\n<!--EndFragment-->"
     },
     {
       "type": "banner-slider",
