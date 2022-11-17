@@ -173,6 +173,19 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/captura-de-tela-2022-11-17-102611.png",
+          "link": "https://www.instagram.com/mobifans/"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/anyconv.com__banner-instagram-mobi-01.webp",
           "link": "https://www.instagram.com/mobifans/",
           "mobile_img": "/img/uploads/anyconv.com__banner-instagram-mobi-02.webp"
