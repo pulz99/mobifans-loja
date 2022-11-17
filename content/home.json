@@ -179,6 +179,10 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "<div class=\"collectionID\"><h2 class=\"my-0\"><div style=\"text-align:center\"><!--StartFragment-->Siga a [@mobifans](https://www.instagram.com/mobifans/) no Instagram<!--EndFragment--></h2></div>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
