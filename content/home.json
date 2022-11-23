@@ -58,7 +58,7 @@
     },
     {
       "type": "custom-html",
-      "html": "    <script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n    <div class=\"elfsight-app-8c7398ab-561f-4f38-a2de-29a5653c5007\"></div>"
+      "html": "    <script src=\"https://apps.elfsight.com/p/platform.js\" async defer></script>\n    <div class=\"elfsight-app-8c7398ab-561f-4f38-a2de-29a5653c5007\"></div>"
     },
     {
       "type": "custom-html",
