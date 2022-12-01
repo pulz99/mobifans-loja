@@ -158,22 +158,8 @@
       "title": "PopSockets®, o Original chegou!"
     },
     {
-      "type": "custom-content",
-      "markdown": "<div class=\"collectionID\"><h2 class=\"my-0\"><div style=\"text-align:center\">Siga a @mobifans no Instagram</h2></div>"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/anyconv.com__banner-instagram-mobi-01.webp",
-          "link": "https://www.instagram.com/mobifans/",
-          "mobile_img": "/img/uploads/anyconv.com__banner-instagram-mobi-02.webp"
-        }
-      ]
+      "type": "custom-html",
+      "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" async defer></script>\n<div class=\"elfsight-app-05a4d021-2644-4518-bb65-d2c1084710dc\"></div>"
     },
     {
       "type": "custom-html",
